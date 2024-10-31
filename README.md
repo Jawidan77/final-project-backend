@@ -30,22 +30,23 @@ Backend: http://localhost:4500
 These URLs will allow you to access the respective components of the Restaurant Web Application locally on your machine.
 
 Technologies Used
+
 Frontend
-React JS: Frontend framework for building the user interface.
-React Router DOM: Library for handling routing in the frontend application.
-Axios: Library for making HTTP requests to the backend server.
+1. React JS: Frontend framework for building the user interface.
+2. React Router DOM: Library for handling routing in the frontend application.
+3. Axios: Library for making HTTP requests to the backend server.
 
 Backend
-Express: Backend framework for building the server.
-MongoDB: NoSQL database used for storing application data.
-Mongoose: MongoDB object modeling tool for Node.js.
-Bcrypt: Library for hashing passwords for secure storage.
-Cors: Middleware for enabling Cross-Origin Resource Sharing (CORS) in the backend.
-Dotenv: Library for loading environment variables from a .env file.
-Body-parser: Middleware for parsing incoming request bodies.
-Multer: Middleware for handling file uploads.
-Validator: Library for data validation.
-Nodemon: Utility for automatically restarting the server during development.
+1. Express: Backend framework for building the server.
+2. MongoDB: NoSQL database used for storing application data.
+3. Mongoose: MongoDB object modeling tool for Node.js.
+4. Bcrypt: Library for hashing passwords for secure storage.
+5. Cors: Middleware for enabling Cross-Origin Resource Sharing (CORS) in the backend.
+6. Dotenv: Library for loading environment variables from a .env file.
+7. Body-parser: Middleware for parsing incoming request bodies.
+8. Multer: Middleware for handling file uploads.
+9. Validator: Library for data validation.
+10. Nodemon: Utility for automatically restarting the server during development.
 
 
 
